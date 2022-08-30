@@ -1,11 +1,12 @@
 - Hi, I’m @JemBulkeZMaslem
 - I’m interested in programming
 - I’m currently learning programming languages
-## Programming languages that I know:
+###### Programming languages that I know:
   - Javascript
   - Rust *favorite*
   - Lua
   - Autohotkey
+###### Contact
 - Reach me at discord JemBulkeZMaslem#8300 DMs open
 
 <!---
