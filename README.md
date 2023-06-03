@@ -1,11 +1,13 @@
 - Hi, I’m @JemBulkeZMaslem
 - I’m interested in programming
-- I’m currently learning Rust
-## Programming languages that I know:
+- I’m currently making Roblox game and learning luau.
+## Programming languages I know:
+  - Python
   - Javascript
   - Rust *my favorite*
-  - Java
   - Lua
+  - Luau
+  - Odin (just few projects, little experience)
   - Autohotkey
 ## Contact
 - Reach me at discord JemBulkeZMaslem#8300 DMs open
