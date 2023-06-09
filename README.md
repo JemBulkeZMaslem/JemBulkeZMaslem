@@ -1,6 +1,6 @@
 - Hi, I’m @JemBulkeZMaslem
 - I’m interested in programming
-- I’m currently making Roblox game and learning luau.
+- I’m currently making Roblox game and learning luau and Zig language.
 ## Programming languages I know:
   - Python
   - Javascript
@@ -8,6 +8,7 @@
   - Lua
   - Luau
   - Odin (just few projects, little experience)
+  - Zig (currently learning)
   - Autohotkey
 ## Contact
 - Reach me at discord JemBulkeZMaslem#8300 DMs open
