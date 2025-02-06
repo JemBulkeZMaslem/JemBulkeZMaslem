@@ -1,4 +1,4 @@
-- Hi, I’m @JemBulkeZMaslem
+- Hi, I’m Mikołaj Rojewski
 - I’m interested in programming
 - I’m currently making Roblox game and learning luau and Zig language.
 ## Programming languages I know:
@@ -11,7 +11,7 @@
   - Zig (currently learning)
   - Autohotkey
 ## Contact
-- Reach me at discord JemBulkeZMaslem#8300 DMs open
+- Reach me at discord JemBulkeZMaslem DMs open
 
 <!---
 JemBulkeZMaslem/JemBulkeZMaslem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
